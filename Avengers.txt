@@ -9,6 +9,7 @@ Scarlet Witch is awesome. Avengers are my fav.
 It is my duty to love AVENGERS
 
 
+
 amit azad is ______
 
 
@@ -17,3 +18,4 @@ HEROESSSS!
 AVENGERS ENDGAME WAS MIND BLOWING
 ffgcgcg
 
+Console.alert("Mujhe bas t-shirt chhaiye");
