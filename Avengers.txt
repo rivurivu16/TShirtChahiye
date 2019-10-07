@@ -17,4 +17,7 @@ HEROESSSS!
 AVENGERS ENDGAME WAS MIND BLOWING
 ffgcgcg
 while(1)
+{ printf(" t shirt chaiye") }
+
 { printf (" tshirt chaiye ")  }
+
