@@ -20,6 +20,5 @@ ffgcgcg
 while(1)
 { printf(" t shirt chaiye") }
 
-{ printf (" tshirt chaiye ")  }
 
 Console.alert("Mujhe bas t-shirt chhaiye");
